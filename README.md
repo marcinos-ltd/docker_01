@@ -1,7 +1,7 @@
 # docker_01
   Test for job interview
 
-  
+
 TASKS:
 Please complete the following steps:
    1. Create a hosted git repository account of your choice (if you do not already possess one) e.g. github, gitlab, bitbucket, etc.
@@ -21,3 +21,4 @@ Please complete the following steps:
       f. Write appropriate documentation in the repository to explain how someone cloning it should provision the Vagrant VM and access the web URL serving out the “Hello World”
    5. Commit as little or as often as you like
    6. For  extra points write some tests using the test framework of choice (serverspec, testinfra, etc) or even simple bash/python scripts to run tests of your choice to confirm/deny that the deployment has worked
+   
